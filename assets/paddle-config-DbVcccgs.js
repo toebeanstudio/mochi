@@ -1,0 +1,1 @@
+var e={environment:`sandbox`,clientToken:`test_27f109065ba3cddabb72384a0df`,priceId:`pri_01m4apzd6bhv2gdrr7wyrhpd51`,workerUrl:`https://api.toebeanstudio.app`,launchCode:`LAUNCH`},t=()=>!/REPLACE_ME/.test(e.clientToken+e.priceId+e.workerUrl);export{t as n,e as t};
